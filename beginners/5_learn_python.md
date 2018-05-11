@@ -21,5 +21,6 @@ Add details.
 
 ## Links and resources to learn Python
 
-- link 1
+- https://www.codecademy.com/catalog/language/python
+- https://www.tutorialspoint.com/python/index.htm
 - ...
