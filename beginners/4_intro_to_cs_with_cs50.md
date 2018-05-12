@@ -10,4 +10,6 @@ Any blog links which share CS50 experience?
 
 ### Assignment solutions
 
-* [Solution](https://amfoss.in) - Solution till week 5
+Solutions for the assignments can be pushed to your local GitHub repository. You can add the link here: 
+for example:
+* [Solution by Abhi](https://amfoss.in) - Solution till week 5
