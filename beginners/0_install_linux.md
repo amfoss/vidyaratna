@@ -55,16 +55,19 @@ In my case my Wi-Fi card name is` Realtek RTL8723BE`, I can then google for `Rea
 #### Laptop battery life
 
 Ubnutu uses opensource graphics drivers by default which may result in more battery usage. An easy fix for this is to 
-use tool like `Powertop` or `Tlp`. Here is a good read on why to use Powertop or tlp: 
-https://www.phoronix.com/scan.php?page=article&item=ubuntu2017-tlp-powertop&num=1.
+use tool like `Powertop` or `Tlp`. 
+[Phoronix.com - Ubuntu tlp powertop](https://www.phoronix.com/scan.php?page=article&item=ubuntu2017-tlp-powertop&num=1)
+is a good read on why to use Powertop or tlp. 
+.
  
-Here is a good documentation to improve battery life on 
-Ubuntu: https://help.ubuntu.com/stable/ubuntu-help/power-batterylife.html.en.
+[help.ubuntu.com - power batterylife](https://help.ubuntu.com/stable/ubuntu-help/power-batterylife.html.en) provides documentation on how 
+you can improve battery life on Ubuntu. 
 
 #### Nvidia graphics drivers
 
-Nvidia properatery drivers can be installed using the Additional drivers option in Ubuntu. You can get more info here: 
-https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+Nvidia properatery drivers can be installed using the Additional drivers option in Ubuntu. You can get more info at 
+[help.ubuntu.com - BinaryDriverHowto Nvidia](https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia) 
+
 
 ### Laptop suggestions
 
@@ -83,10 +86,11 @@ technology. This might be useful later if you are planing to do machine learning
 using cloud). 
 
 With regards of RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually 
-upgrade it to 8GM or more. Also if you have enough budget you can get your system with a SSD instead of an HDD. Here is 
-an interesting read on why you should get an SSD: https://www.howtogeek.com/howto/45359/htg-explains-whats-a-solid-state-drive-and-what-do-i-need-to-know/.
+upgrade it to 8GM or more. Also if you have enough budget you can get your system with a SSD instead of an HDD. 
+[howtogeek.com](https://www.howtogeek.com/howto/45359/htg-explains-whats-a-solid-state-drive-and-what-do-i-need-to-know) 
+has an in interesting article on why you should be using an SSD.
 
 #### Some 8th gen laptops
 
 - Dell xps 13 or 15
-- Dell inspiron 5000 series
+- Dell Inspiron 5000 series
