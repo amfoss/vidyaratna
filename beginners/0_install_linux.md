@@ -11,3 +11,5 @@ Add more details on why we use linux etc..
 
 ### Common errors and issues
 
+
+### Laptop suggestions

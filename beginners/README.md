@@ -1,6 +1,6 @@
 ### Tasks for beginners
 
-0. [Install Linux](0_install-linux.md)
+0. [Install Linux](0_install_linux.md)
 1. [Create your blog](1_blog.md)
 2. [How to google effectively](2_how_to_google_effectively.md)
 3. [Command line basics](3_command_line_basics.md)
