@@ -87,3 +87,6 @@ upgrade it to 8GM or more. Also if you have enough budget you can get your syste
 an interesting read on why you should get an SSD: https://www.howtogeek.com/howto/45359/htg-explains-whats-a-solid-state-drive-and-what-do-i-need-to-know/.
 
 #### Some 8th gen laptops
+
+- Dell xps 13 or 15
+- Dell inspiron 5000 series
