@@ -8,7 +8,14 @@
 
 - init
 - add
-- ...
+- commit
+- push
+- status
+- checkout
+- remote
+- log
+- diff
+...
 
 ## Learning Outcome
 
