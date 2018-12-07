@@ -1,4 +1,4 @@
-# VCS
+# Version Control System 
 
 # GIT
 
@@ -19,6 +19,13 @@
 
 ## Learning Outcome
 
+- You will get Introduced to the world of Open Source.
+
 ## Assignments
 
+- Create a repository and push your codeforces or Hackerrank solutions to github.
+
 ## Additional Resources
+
+- Practise git commands from https://learngitbranching.js.org/
+- 
