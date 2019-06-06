@@ -5,8 +5,8 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 ### Table of Contents
 
 * [Linux](#linux)
-* [Ruby](#Ruby)
-* [Ruby On Rails](#Ruby On Rails)
+* [Ruby](#ruby)
+* [Ruby On Rails](#ruby-on-rails)
 
 
 ## Linux 
