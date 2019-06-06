@@ -6,7 +6,8 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 
 * [Linux](#linux)
 * [Android](#android)
-
+* [Ruby](#ruby)
+* [Ruby On Rails](#ruby-on-rails)
 
 
 ## Linux 
@@ -78,3 +79,19 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 
 - [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts Program](https://developers.google.com/programs/experts/)
+
+
+## Ruby
+
+- [New to Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+- [Odin Project](https://www.theodinproject.com/courses/ruby-programming)
+- [Ruby from zero to hero](https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/)
+- [Ruby online](https://www.learnrubyonline.org/en/)
+- [Ruby Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
+
+## Ruby On Rails
+
+- [New to ROR](https://www.railstutorial.org/book)
+- [Contributing to ROR](https://www.freecodecamp.org/news/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69/)
+- [ROR Databases](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
+- [Basic App using ROR](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
