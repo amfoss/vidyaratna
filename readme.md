@@ -5,6 +5,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 ### Table of Contents
 
 * [Linux](#linux)
+* [CS50](#cs50)
 * [Android](#android)
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
@@ -33,6 +34,15 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 
 - [Useful Commands](https://likegeeks.com/linux-command-line-tricks/)
 - [Automate with Bash](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
+
+
+## CS50
+
+- [Introduction to CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [CS50 Lectures](http://cs50.tv/2017/fall/#about,lectures)
+- [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
+- [CS50 IDE](https://ide.cs50.io/)
+- [CS50 Youtube channel](https://www.youtube.com/user/cs50tv/featured)
 
 
 ## Android
