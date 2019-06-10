@@ -10,6 +10,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
 
+***
 
 ## Linux 
 
@@ -55,6 +56,7 @@ There are an overwhelming number of processors out there, it's best to go with a
 If there is need for a device with graphics card, it is highly recommended to get one with NVIDIA graphics to use the CUDA technology. Regarding RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually upgrade it to 8GB or more. Also if you have enough budget, consider getting a system with an SSD instead of an HDD. 
    
 
+
 ## CS50
 
 - [Introduction to CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
@@ -62,6 +64,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
 - [CS50 IDE](https://ide.cs50.io/)
 - [CS50 Youtube channel](https://www.youtube.com/user/cs50tv/featured)
+
 
 
 ## Android
@@ -108,6 +111,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 - [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts Program](https://developers.google.com/programs/experts/)
+
 
 
 ## Ruby
