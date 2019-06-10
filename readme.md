@@ -10,15 +10,27 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
 
+***
 
 ## Linux 
 
+**Why Linux?**
+- Open source : apart from Linux's source code being readable to anyone, it also means that there is a whole community to support when you face issues plus it is secure comparing to other closed source OSes.
+- Ease of development : programming and development in general, is a far better experience in Linux than in other OSes. 
+- You do things on your own : there is a lot of learning when you use Linux, you get to understand many things about an OS and a get a touch of how everything works under the hood.
+
+Read more [here](https://opensource.com/resources/linux)
+
 **Installation and Dual-booting**
+
+It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2 at the time of writing). Ubuntu is one of the most popular Linux distros and is strongly recommended for beginners due to its large community and forums.
 
 - [Ubuntu Installation](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
 - [Ubuntu Dual Boot](https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/)
 -  [Debian Dual Boot](https://www.lifewire.com/dual-boot-windows-8-1-debian-jessie-2202088)
 - [Installing over DOS](https://www.linuxquestions.org/questions/linux-newbie-8/need-help-with-installing-linux-from-free-dos-899812/) 
+
+[Common issues faced during Installation](https://github.com/amfoss/vidyaratna/blob/initial/beginners/0_install_linux.md#common-errors-and-issues)
 
 **Common terminal commands and Bash Scripting**
 
@@ -35,6 +47,15 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 - [Useful Commands](https://likegeeks.com/linux-command-line-tricks/)
 - [Automate with Bash](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
+**Looking for a laptop? Here are some suggestions -**
+
+Generally speaking, laptops that come preinstalled with Ubuntu are highly recommended. You can also get one without a graphics card to avoid issues with battery life and driver installation. It is recommended to research about the Linux support of a particular model before getting it. If possible try to stay away from the very latest, since these devices might not have open source drivers available so always check compatibility before you go for a specific model.
+
+There are an overwhelming number of processors out there, it's best to go with a laptop with the latest - up to date generation of Intel i3, i5 or an i7 processor.
+
+If there is need for a device with graphics card, it is highly recommended to get one with NVIDIA graphics to use the CUDA technology. Regarding RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually upgrade it to 8GB or more. Also if you have enough budget, consider getting a system with an SSD instead of an HDD. 
+   
+
 
 ## CS50
 
@@ -43,6 +64,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 - [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
 - [CS50 IDE](https://ide.cs50.io/)
 - [CS50 Youtube channel](https://www.youtube.com/user/cs50tv/featured)
+
 
 
 ## Android
@@ -89,6 +111,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 
 - [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts Program](https://developers.google.com/programs/experts/)
+
 
 
 ## Ruby
