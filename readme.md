@@ -9,6 +9,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Android](#android)
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
+* [Python](#python)
 
 ***
 
@@ -128,3 +129,25 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Contributing to ROR](https://www.freecodecamp.org/news/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69/)
 - [ROR Databases](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
 - [Basic App using ROR](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
+
+
+## Python
+
+### Video Lectures
+
+- [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
+### Automation with Python
+
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
+
+### More Resources
+
+- [Python from zero to hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Google's Python class](https://developers.google.com/edu/python/)
+- [Real Python Tutorials](https://realpython.com/)
+
+### Practicing Python
+
+- [Project Euler](https://projecteuler.net/)
