@@ -10,6 +10,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
 * [Python](#python)
+* [Presentation Skills](#presentation-skills)
 
 ***
 
@@ -148,3 +149,12 @@ If there is need for a device with graphics card, it is highly recommended to ge
 **Practicing Python**
 
 - [Project Euler](https://projecteuler.net/)
+
+
+## Presentation Skills
+
+- [How to make a good presentation with 8 pro tips | Biteable](https://biteable.com/blog/tips/how-to-make-good-presentation/)
+- [5 Ways To Make a PowerPoint Presentation Awesome — Episode25](https://youtu.be/WmdnihffGTQ)
+- [Speaking Up Without Freaking Out | Matt Abrahams | TEDxPaloAlto](https://youtu.be/XIXvKKEQQJo)
+- [HOW TO GIVE A GOOD PRESENTATION](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
+- [14 PowerPoint Presentation Tips to Make More Creative Slideshows](https://blog.hubspot.com/marketing/easy-powerpoint-design-tricks-ht)
