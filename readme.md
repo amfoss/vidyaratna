@@ -9,8 +9,10 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Android](#android)
 * [Ruby](#ruby)
 * [Ruby On Rails](#ruby-on-rails)
+* [Python](#python)
 
 ***
+
 
 ## Linux 
 
@@ -54,7 +56,6 @@ Generally speaking, laptops that come preinstalled with Ubuntu are highly recomm
 There are an overwhelming number of processors out there, it's best to go with a laptop with the latest - up to date generation of Intel i3, i5 or an i7 processor.
 
 If there is need for a device with graphics card, it is highly recommended to get one with NVIDIA graphics to use the CUDA technology. Regarding RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually upgrade it to 8GB or more. Also if you have enough budget, consider getting a system with an SSD instead of an HDD. 
-   
 
 
 ## CS50
@@ -64,7 +65,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
 - [CS50 IDE](https://ide.cs50.io/)
 - [CS50 Youtube channel](https://www.youtube.com/user/cs50tv/featured)
-
 
 
 ## Android
@@ -86,7 +86,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
 
 [Learn how to format Kotlin code properly](https://developer.android.com/kotlin/style-guide)
-
 
 ##### Dart
 
@@ -113,7 +112,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Experts Program](https://developers.google.com/programs/experts/)
 
 
-
 ## Ruby
 
 - [New to Ruby](https://www.ruby-lang.org/en/documentation/installation/)
@@ -122,9 +120,32 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Ruby online](https://www.learnrubyonline.org/en/)
 - [Ruby Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
 
+
 ## Ruby On Rails
 
 - [New to ROR](https://www.railstutorial.org/book)
 - [Contributing to ROR](https://www.freecodecamp.org/news/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69/)
 - [ROR Databases](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
 - [Basic App using ROR](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
+
+
+## Python
+
+**Video Lectures**
+
+- [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
+**Automation with Python**
+
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
+
+**More Resources**
+
+- [Python from zero to hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Google's Python class](https://developers.google.com/edu/python/)
+- [Real Python Tutorials](https://realpython.com/)
+
+**Practicing Python**
+
+- [Project Euler](https://projecteuler.net/)
