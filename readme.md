@@ -27,27 +27,27 @@ Read more [here](https://opensource.com/resources/linux)
 
 It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2 at the time of writing). Ubuntu is one of the most popular Linux distros and is strongly recommended for beginners due to its large community and forums.
 
-- [Ubuntu Installation](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
-- [Ubuntu Dual Boot](https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/)
--  [Debian Dual Boot](https://www.lifewire.com/dual-boot-windows-8-1-debian-jessie-2202088)
-- [Installing over DOS](https://www.linuxquestions.org/questions/linux-newbie-8/need-help-with-installing-linux-from-free-dos-899812/) 
+- [Install Ubuntu desktop | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
+- [How To Install Ubuntu Along With Windows - It's FOSS](https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/)
+-  [How To Dual Boot Windows 8.1 And Debian Jessie](https://www.lifewire.com/dual-boot-windows-8-1-debian-jessie-2202088)
+- [Installing Linux over Free DOS](https://www.linuxquestions.org/questions/linux-newbie-8/need-help-with-installing-linux-from-free-dos-899812/) 
 
 [Common issues faced during Installation](https://github.com/amfoss/vidyaratna/blob/initial/beginners/0_install_linux.md#common-errors-and-issues)
 
 **Common terminal commands and Bash Scripting**
 
-- [Basic Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
-- [Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) 
+- [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+- [What is a Bash Script? - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) 
 
 **Desktop Customisation**
 
-- [GNOME](https://itsfoss.com/gnome-tricks-ubuntu/)
-- [KDE](https://opensource.com/article/17/5/7-cool-kde-tweaks-will-improve-your-life) 
+- [Customize Ubuntu 18.04 GNOME With These Simple Tips](https://itsfoss.com/gnome-tricks-ubuntu/)
+- [7 cool KDE tweaks that will change your life](https://opensource.com/article/17/5/7-cool-kde-tweaks-will-improve-your-life) 
 
 **Tips and tricks**
 
-- [Useful Commands](https://likegeeks.com/linux-command-line-tricks/)
-- [Automate with Bash](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
+- [16 Useful Linux Command Line Tips And Tricks](https://likegeeks.com/linux-command-line-tricks/)
+- [Using Shell Scripting to Automate Linux System Maintenance Tasks](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
 **Looking for a laptop? Here are some suggestions -**
 
@@ -60,11 +60,11 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 ## CS50
 
-- [Introduction to CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [CS50 Lectures](http://cs50.tv/2017/fall/#about,lectures)
 - [Problem Sets](http://cs50.tv/2017/fall/#about,psets)
 - [CS50 IDE](https://ide.cs50.io/)
-- [CS50 Youtube channel](https://www.youtube.com/user/cs50tv/featured)
+- [CS50-Youtube](https://www.youtube.com/user/cs50tv/featured)
+- [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 
 ## Android
@@ -73,78 +73,77 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 ##### Java
 
-- [Official Java Documentation](https://docs.oracle.com/javase/tutorial/)
+- [The Java™ Tutorials (Official Documentation)](https://docs.oracle.com/javase/tutorial/)
 - [Java 101](https://www.javaworld.com/blog/java-101/)
-- [JournalDev](https://www.journaldev.com/core-java-tutorial)
+- [Core Java Tutorial-JournalDev](https://www.journaldev.com/core-java-tutorial)
 - [Programming by doing](http://programmingbydoing.com/)
 
-[Learn how to format Java code properly](https://github.com/ribot/androidguidelines/blob/master/project_and_code_guidelines.md)
+[Learn how to format Java code properly](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
 ##### Kotlin
 
-- [Android Developers Resources](https://developer.android.com/kotlin/resources)
+- [Additional Kotlin resources | Android Developers](https://developer.android.com/kotlin/resources)
 - [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
 
 [Learn how to format Kotlin code properly](https://developer.android.com/kotlin/style-guide)
 
 ##### Dart
 
-- [Official Dart Tutorials](https://dart.dev/tutorials)
-- [Dart Codelabs](https://dart.dev/codelabs)
+- [Tutorials | Dart](https://dart.dev/tutorials)
+- [Codelabs | Dart](https://dart.dev/codelabs)
 
 [Learn how to format Flutter/Dart code properly](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
 
 **Application Development**
 
-- [Google Developers Training](https://developers.google.com/training/android/)
+- [Google Developers Training | Google Developers](https://developers.google.com/training/android/)
 - [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
 **Android Development Tools**
 
-- [Android Studio](https://developer.android.com/studio/install)
-- [Android Debug Bridge](https://developer.android.com/studio/command-line/adb)
-- [Fastboot](https://forum.xda-developers.com/showthread.php?t=2277112)
+- [Install Android Studio | Android Developers](https://developer.android.com/studio/install)
+- [Android Debug Bridge (adb) | Android Developers](https://developer.android.com/studio/command-line/adb)
+- [How To Setup And Use Fastboot](https://forum.xda-developers.com/showthread.php?t=2277112)
 - [Android Jetpack](https://developer.android.com/jetpack/)
 
 **Certification**
 
-- [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
-- [Experts Program](https://developers.google.com/programs/experts/)
+- [Google Developers Certification | Google Developers](https://developers.google.com/training/certification/associate-android-developer/)
+- [Experts | Google Developers](https://developers.google.com/programs/experts/)
 
 
 ## Ruby
 
-- [New to Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-- [Odin Project](https://www.theodinproject.com/courses/ruby-programming)
-- [Ruby from zero to hero](https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/)
-- [Ruby online](https://www.learnrubyonline.org/en/)
-- [Ruby Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
+- [Installing Ruby (Official Documentation](https://www.ruby-lang.org/en/documentation/installation/)
+- [Ruby Programming | The Odin Project](https://www.theodinproject.com/courses/ruby-programming)
+- [Learning Ruby: From Zero to Hero](https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/)
+- [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/en/)
+- [The Ruby Programming Language](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
 
 
 ## Ruby On Rails
 
-- [New to ROR](https://www.railstutorial.org/book)
-- [Contributing to ROR](https://www.freecodecamp.org/news/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69/)
-- [ROR Databases](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
-- [Basic App using ROR](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
+- [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
+- [Understanding the basics of Ruby on Rails: SQL Databases and how they work](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
+- [How to create a simple jobs board in Ruby on Rails](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
 
 
 ## Python
-
-**Video Lectures**
-
-- [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-- [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
 **Automation with Python**
 
 - [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
 
+**Video Lectures**
+
+- [Python 3 Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
 **More Resources**
 
-- [Python from zero to hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
-- [Google's Python class](https://developers.google.com/edu/python/)
-- [Real Python Tutorials](https://realpython.com/)
+- [Learning Python: From Zero to Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/)
+- [Python Tutorials | Real Python](https://realpython.com/)
 
 **Practicing Python**
 
