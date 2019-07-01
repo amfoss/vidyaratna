@@ -50,7 +50,7 @@ It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2
 - [16 Useful Linux Command Line Tips And Tricks](https://likegeeks.com/linux-command-line-tricks/)
 - [Using Shell Scripting to Automate Linux System Maintenance Tasks](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
-**Looking for a laptop? Here are some suggestions -**
+#### Laptop Suggestions
 
 Generally speaking, laptops that come preinstalled with Ubuntu are highly recommended. You can also get one without a graphics card to avoid issues with battery life and driver installation. It is recommended to research about the Linux support of a particular model before getting it. If possible try to stay away from the very latest, since these devices might not have open source drivers available so always check compatibility before you go for a specific model.
 
