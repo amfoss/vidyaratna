@@ -11,6 +11,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Ruby On Rails](#ruby-on-rails)
 * [Python](#python)
 * [Presentation Skills](#presentation-skills)
+* [Blogging](#blogging)
 
 ***
 
@@ -158,3 +159,14 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Speaking Up Without Freaking Out | Matt Abrahams | TEDxPaloAlto](https://youtu.be/XIXvKKEQQJo)
 - [HOW TO GIVE A GOOD PRESENTATION](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
 - [14 PowerPoint Presentation Tips to Make More Creative Slideshows](https://blog.hubspot.com/marketing/easy-powerpoint-design-tricks-ht)
+
+
+## Blogging
+
+**Best Practices**
+- [How to write a great technical blog post | freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+- [How to Write an Awesome Blog Post ](https://www.wordstream.com/blog/ws/2015/02/09/how-to-write-a-blog-post)
+
+**Blogging Platforms**
+- [WordPress Blog Creation: How To Start A Free Blog Guide](https://startbloggingonline.com/how-to-start-a-blog-on-wordpress-com/)
+- [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
