@@ -22,8 +22,8 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 - Open source : apart from Linux's source code being readable to anyone, it also means that there is a whole community to support when you face issues plus it is secure comparing to other closed source OSes.
 - Ease of development : programming and development in general, is a far better experience in Linux than in other OSes. 
 - You do things on your own : there is a lot of learning when you use Linux, you get to understand many things about an OS and a get a touch of how everything works under the hood.
+Read more about Linux [here](https://opensource.com/resources/linux)
 
-Read more [here](https://opensource.com/resources/linux)
 
 **Installation and Dual-booting**
 
@@ -51,6 +51,10 @@ It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2
 - [16 Useful Linux Command Line Tips And Tricks](https://likegeeks.com/linux-command-line-tricks/)
 - [Using Shell Scripting to Automate Linux System Maintenance Tasks](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
+
+For a more detailed look into the Linux commands, Bash scripting and more, go through [this book](https://liquidtelecom.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) 
+
+
 #### Laptop Suggestions
 
 Generally speaking, laptops that come preinstalled with Ubuntu are highly recommended. You can also get one without a graphics card to avoid issues with battery life and driver installation. It is recommended to research about the Linux support of a particular model before getting it. If possible try to stay away from the very latest, since these devices might not have open source drivers available so always check compatibility before you go for a specific model.
@@ -71,9 +75,9 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 ## Android
 
-**Programming Langauges**
+### Programming Langauges 
 
-##### Java
+#### Java
 
 - [The Java™ Tutorials (Official Documentation)](https://docs.oracle.com/javase/tutorial/)
 - [Java 101](https://www.javaworld.com/blog/java-101/)
@@ -82,33 +86,33 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 [Learn how to format Java code properly](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
-##### Kotlin
+#### Kotlin
 
 - [Additional Kotlin resources | Android Developers](https://developer.android.com/kotlin/resources)
 - [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
 
 [Learn how to format Kotlin code properly](https://developer.android.com/kotlin/style-guide)
 
-##### Dart
+#### Dart
 
 - [Tutorials | Dart](https://dart.dev/tutorials)
 - [Codelabs | Dart](https://dart.dev/codelabs)
 
 [Learn how to format Flutter/Dart code properly](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
 
-**Application Development**
+### Application Development
 
 - [Google Developers Training | Google Developers](https://developers.google.com/training/android/)
 - [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
-**Android Development Tools**
+### Android Development Tools
 
 - [Install Android Studio | Android Developers](https://developer.android.com/studio/install)
 - [Android Debug Bridge (adb) | Android Developers](https://developer.android.com/studio/command-line/adb)
 - [How To Setup And Use Fastboot](https://forum.xda-developers.com/showthread.php?t=2277112)
 - [Android Jetpack](https://developer.android.com/jetpack/)
 
-**Certification**
+### Certification
 
 - [Google Developers Certification | Google Developers](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts | Google Developers](https://developers.google.com/programs/experts/)
@@ -157,7 +161,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [How to make a good presentation with 8 pro tips | Biteable](https://biteable.com/blog/tips/how-to-make-good-presentation/)
 - [5 Ways To Make a PowerPoint Presentation Awesome — Episode25](https://youtu.be/WmdnihffGTQ)
 - [Speaking Up Without Freaking Out | Matt Abrahams | TEDxPaloAlto](https://youtu.be/XIXvKKEQQJo)
-- [HOW TO GIVE A GOOD PRESENTATION](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
+- [How to give a good presentation](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
 - [14 PowerPoint Presentation Tips to Make More Creative Slideshows](https://blog.hubspot.com/marketing/easy-powerpoint-design-tricks-ht)
 
 
