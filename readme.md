@@ -2,7 +2,7 @@
 
 Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curriculum for students to learn about computer science development and open source. This is a curated list of tutorials, guides and everything a beginner needs to know. 
 
-### Table of Contents
+## Table of Contents
 
 * [Linux](#linux)
 * [CS50](#cs50)
@@ -12,8 +12,6 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Python](#python)
 * [Presentation Skills](#presentation-skills)
 * [Blogging](#blogging)
-
-***
 
 
 ## Linux 
