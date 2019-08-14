@@ -12,6 +12,8 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Python](#python)
 * [Presentation Skills](#presentation-skills)
 * [Blogging](#blogging)
+* [Git](#git)
+* [Git with Software Development Platforms](#git-with-software-development-platforms)
 
 
 ## Linux 
@@ -172,3 +174,18 @@ If there is need for a device with graphics card, it is highly recommended to ge
 **Blogging Platforms**
 - [WordPress Blog Creation: How To Start A Free Blog Guide](https://startbloggingonline.com/how-to-start-a-blog-on-wordpress-com/)
 - [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
+
+## Git
+- [Official Git Book](https://git-scm.com/book/en/v2)
+- [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [Collaborating With Git](https://yash2k.wordpress.com/2019/02/17/collaborating-with-git/)
+
+
+## Git with Software Development Platforms
+
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Learning Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Git and GitLab](https://docs.gitlab.com/ee/topics/git/)
+
+
