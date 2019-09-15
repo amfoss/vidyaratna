@@ -1,4 +1,4 @@
-# Vidyaratna
+ # Vidyaratna
 
 Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curriculum for students to learn about computer science development and open source. This is a curated list of tutorials, guides and everything a beginner needs to know. 
 
@@ -14,6 +14,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Blogging](#blogging)
 * [Git](#git)
 * [Git with Software Development Platforms](#git-with-software-development-platforms)
+* [Web Development](#web-development)
 
 
 ## Linux 
@@ -126,14 +127,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/en/)
 - [The Ruby Programming Language](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
 
-
-## Ruby On Rails
-
-- [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
-- [Understanding the basics of Ruby on Rails: SQL Databases and how they work](https://www.freecodecamp.org/news/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073/)
-- [How to create a simple jobs board in Ruby on Rails](https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
-
-
 ## Python
 
 **Automation with Python**
@@ -189,3 +182,18 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Git and GitLab](https://docs.gitlab.com/ee/topics/git/)
 
 
+## Web Development
+
+- [HTML Tutorial | W3Schools](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorial | W3Schools](https://www.w3schools.com/css/default.asp)
+- [Introduction Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+- [JavaScript Reference | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+### Frameworks
+
+- [Introduction Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- [Node JS Tutorial | W3Schools](https://www.w3schools.com/nodejs/)
+- [Getting start with Express JS](https://expressjs.com/en/starter/installing.html)
+- [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
+- [Learn React | KIRUPA](https://www.kirupa.com/react/)
+- [Angular JS Tutorial | W3Schools](https://www.w3schools.com/angular/default.asp)
