@@ -118,6 +118,9 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Google Developers Certification | Google Developers](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts | Google Developers](https://developers.google.com/programs/experts/)
 
+### Cyber Security
+
+- [Cyber Security Resources](https://github.com/NAVHITS/cyber-security-resources)
 
 ## Ruby
 
