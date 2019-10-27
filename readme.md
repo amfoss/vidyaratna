@@ -15,6 +15,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Git](#git)
 * [Git with Software Development Platforms](#git-with-software-development-platforms)
 * [Web Development](#web-development)
+* [Cyber Security](#cyber-security)
 * [Qt Framework](#qt-framework)
 
 
@@ -120,7 +121,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Google Developers Certification | Google Developers](https://developers.google.com/training/certification/associate-android-developer/)
 - [Experts | Google Developers](https://developers.google.com/programs/experts/)
 
-
 ## Ruby
 
 - [Installing Ruby (Official Documentation](https://www.ruby-lang.org/en/documentation/installation/)
@@ -200,6 +200,14 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Learn React | KIRUPA](https://www.kirupa.com/react/)
 - [Angular JS Tutorial | W3Schools](https://www.w3schools.com/angular/default.asp)
 
+
+## Cyber Security
+
+- [General CTF Learning Resources - InCTF](https://resources.bi0s.in)
+- [bi0s wiki](https://wiki.bi0s.in)
+- [Cyber Security Resources](https://github.com/NAVHITS/cyber-security-resources)
+
+
 ## Qt Framework
 
 ### C++
@@ -217,4 +225,3 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 Recommended:
 - Test out the example applications given in Qt Creator, concepts like signal/slot mechansim must be understood by reading code.
-
