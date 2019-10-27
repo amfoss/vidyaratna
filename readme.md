@@ -1,4 +1,4 @@
- # Vidyaratna
+ # Vidyaratna  :gem:
 
 Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curriculum for students to learn about computer science development and open source. This is a curated list of tutorials, guides and everything a beginner needs to know. 
 
@@ -15,6 +15,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
 * [Git](#git)
 * [Git with Software Development Platforms](#git-with-software-development-platforms)
 * [Web Development](#web-development)
+* [Qt Framework](#qt-framework)
 
 
 ## Linux 
@@ -197,3 +198,22 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
 - [Learn React | KIRUPA](https://www.kirupa.com/react/)
 - [Angular JS Tutorial | W3Schools](https://www.w3schools.com/angular/default.asp)
+
+## Qt Framework
+
+### C++
+- Awareness of syntax in modern C++ (C++11 and above)
+- Knowledge of classes and core OOP concepts implemented using C++ (Encaspulation, Abstraction, Inheritance and Polymorphism)
+- Awareness of how pointers, references work and what and why [smart pointers](https://en.cppreference.com/book/intro/smart_pointers) are used in modern C++
+- Using [STL (Standard Template Library)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) - usage of all data structures could be practiced in [Hackerrank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl) or [similar websites](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) using STL for a better understanding. 
+- Basic awareness of concepts like Dynamic memory allocation, [RAII](https://en.cppreference.com/w/cpp/language/raii), [Templates](http://www.cplusplus.com/doc/oldtutorial/templates/), [lambda expressions](https://www.geeksforgeeks.org/lambda-expression-in-c/)
+
+### Qt 
+
+- [Official Documentation](https://doc.qt.io/)
+- [Qt Crash Course](https://www.cleanqt.io/blog/crash-course-in-qt-for-c%2B%2B-developers,-part-1)
+- [QML](https://qmlbook.github.io/)
+
+Recommended:
+- Test out the example applications given in Qt Creator, concepts like signal/slot mechansim must be understood by reading code.
+
