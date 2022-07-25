@@ -145,6 +145,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Learning Python: From Zero to Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 - [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/)
 - [Python Tutorials | Real Python](https://realpython.com/)
+- [Python tutorial for beginners](https://www.scaler.com/topics/python/)
 
 **Practicing Python**
 
