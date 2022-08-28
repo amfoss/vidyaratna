@@ -87,6 +87,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Java 101](https://www.javaworld.com/blog/java-101/)
 - [Core Java Tutorial-JournalDev](https://www.journaldev.com/core-java-tutorial)
 - [Programming by doing](http://programmingbydoing.com/)
+- [JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet)
 
 [Learn how to format Java code properly](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
@@ -145,6 +146,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Learning Python: From Zero to Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 - [Google's Python Class | Python Education | Google Developers](https://developers.google.com/edu/python/)
 - [Python Tutorials | Real Python](https://realpython.com/)
+- [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet)
 
 **Practicing Python**
 
@@ -182,6 +184,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Learning Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Git and GitLab](https://docs.gitlab.com/ee/topics/git/)
+- [Git Cheat Sheet](https://www.interviewbit.com/git-cheat-sheet)
 
 
 ## Web Development
@@ -199,6 +202,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
 - [Learn React | KIRUPA](https://www.kirupa.com/react/)
 - [Angular JS Tutorial | W3Schools](https://www.w3schools.com/angular/default.asp)
+- [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
 
 
 ## Cyber Security
@@ -216,6 +220,7 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - Awareness of how pointers, references work and what and why [smart pointers](https://en.cppreference.com/book/intro/smart_pointers) are used in modern C++
 - Using [STL (Standard Template Library)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) - usage of all data structures could be practiced in [Hackerrank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl) or [similar websites](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) using STL for a better understanding. 
 - Basic awareness of concepts like Dynamic memory allocation, [RAII](https://en.cppreference.com/w/cpp/language/raii), [Templates](http://www.cplusplus.com/doc/oldtutorial/templates/), [lambda expressions](https://www.geeksforgeeks.org/lambda-expression-in-c/)
+- [C++ Cheat Sheet](https://www.interviewbit.com/cpp-cheat-sheet)
 
 ### Qt 
 
