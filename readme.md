@@ -204,7 +204,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 ## Cyber Security
 
-- [General CTF Learning Resources - InCTF](https://resources.bi0s.in)
 - [bi0s wiki](https://wiki.bi0s.in)
 - [Cyber Security Resources](https://github.com/NAVHITS/cyber-security-resources)
 
