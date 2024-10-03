@@ -225,3 +225,5 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 Recommended:
 - Test out the example applications given in Qt Creator, concepts like signal/slot mechansim must be understood by reading code.
+
+Vidyaratna © 2024 by amFOSS is licensed under Creative Commons Attribution 4.0 International
