@@ -24,6 +24,7 @@ Before diving into actual development, it's good to have a solid understanding o
 #### C
 
 1. The C Programming Language by Brian Kernighan and Dennis Ritchie
+2. [C Assignment](./c_assignment.md)
 
 #### Linux Kernel
 
