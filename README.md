@@ -30,6 +30,6 @@ To keep track of your progress and share your work, please follow our submission
 
 ### Contributing
 
-Vidyaratna welcomes contributions from learners and educators alike. If you’d like to help expand the curriculum or share resources, check out our [Contribution Guidelines](./contributing.md).
+Vidyaratna welcomes contributions from learners and educators alike. If you’d like to help expand the curriculum or share resources, check out our [Contribution Guidelines](./CONTRIBUTING.md).
 
 Vidyaratna © 2024 by amFOSS is licensed under Creative Commons Attribution 4.0 International
