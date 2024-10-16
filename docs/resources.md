@@ -58,7 +58,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 **Learning Resources**
 - [Official Git Book](https://git-scm.com/book/en/v2)
-- [GitHub Learning Lab](https://lab.github.com/)
+- [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 - [Learning Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 ---
@@ -125,7 +125,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 #### Cyber Security
 
-- [General CTF Learning Resources - InCTF](https://resources.bi0s.in)
+- [General CTF Learning Resources - InCTF](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a)
 - [bi0s wiki](https://wiki.bi0s.in)
 
 #### Qt Framework
@@ -143,7 +143,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 #### Presentation Skills
 
-- [How to make a good presentation](https://biteable.com/blog/tips/how-to-make-good-presentation/)
+- [How to make a good presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation)
 - [Speaking Up Without Freaking Out | TEDx](https://youtu.be/XIXvKKEQQJo)
 
 #### Blogging
