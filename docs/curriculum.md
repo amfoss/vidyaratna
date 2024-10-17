@@ -1,8 +1,6 @@
 # Curriculum
 
-## Let’s debug the reasoning here — why is this even a thing?
-
-This curriculum is crucial because it offers a structured way to explore the many facets of computer science. While not every topic will resonate with everyone, exposure to a wide range of subjects helps build a versatile skill set. It encourages students to identify their strengths and interests while developing the essential ability to 'learn how to learn.' In this field, efficiently locating precise information is often more valuable than trying to learn everything in depth. By covering diverse topics, the curriculum introduces learners to various branches of computer science, enhancing their overall understanding. Who knows? You may even discover a newfound passion along the way.
+This curriculum is designed for beginners in software engineering and development to build basic technical skills, while providing an introduction to some of the common domains in the field. At amFOSS, we use the curriculum to provide new members with a general overview before they are encouraged to identify a domain of interest to explore in depth. This learning path primarily follows a practical, task-based approach, encouraging its users to pick up new knowledge and skills on the way to completing each challenge.
 
 ---
 
