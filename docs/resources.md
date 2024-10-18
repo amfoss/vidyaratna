@@ -19,6 +19,7 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
    - [Android Development](#android-development)
    - [Cyber Security](#cyber-security)
    - [Qt Framework](#qt-framework)
+   - [Linux Kernel Dev](#linux-kernel-dev)
 4. [Soft Skills](#soft-skills)
    - [Presentation Skills](#presentation-skills)
    - [Blogging](#blogging)
@@ -136,6 +137,12 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 **Qt Resources**
 - [Official Qt Documentation](https://doc.qt.io/)
+
+#### Linux Kernel Dev
+- [kernelnewbies](https://kernelnewbies.org/)
+- [The Linux Programming Interface](https://www.man7.org/tlpi/)
+- [Linux Insides](https://github.com/0xAX/linux-insides?tab=readme-ov-file)
+- [Preparing Environment for Development](https://medium.com/@daeseok.youn/prepare-the-environment-for-developing-linux-kernel-with-qemu-c55e37ba8ade)
 
 ---
 
