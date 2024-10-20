@@ -140,13 +140,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 #### Linux Kernel Dev
 
-- [Linux Kernal Development](/vidyaratna/docs/linux_kernel_dev.md)
-
-### Extra resources
-
-- [kernelnewbies](https://kernelnewbies.org/)
-- [The Linux Programming Interface](https://www.man7.org/tlpi/)
-- [Linux Insides](https://github.com/0xAX/linux-insides?tab=readme-ov-file)
+- [Guide to Linux Kernal Development](/vidyaratna/docs/linux_kernel_dev.md)
 
 ---
 
