@@ -140,7 +140,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 #### Linux Kernel Dev
 
-- [Guide to Linux Kernal Development](/vidyaratna/docs/linux_kernel_dev.md)
+- [Guide to Linux Kernal Development](/docs/linux_kernel_dev.md)
 
 ---
 
