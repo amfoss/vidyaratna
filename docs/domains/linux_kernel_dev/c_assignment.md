@@ -25,7 +25,7 @@ You can find solutions for some of these questions in the `c_assignment_solution
 
 1. Learn implicit and explicit type conversion.
 2. Write a program to print the longest line given through its input using character arrays to store and retrieve the lines.
-3. Write a program to copy its input to its output, replacing each tab by `\t`, each backspace by `\b`, and each backslash by `\\`. This makes tabs and backspaces visible in an unambiguous way.
+3. Write a program to opy its input to its output, replacing each tab by `\t`, each space by `\s`, each newline by `\n` and each backslash by `\\`. This makes tabs and backspaces visible in an unambiguous way. Use the `switch` statement.
 4. Write a function that takes two strings and appends the former onto the latter, provided the array is big enough.
 5. Write a program to print a vertical histogram of the frequencies of different characters in its input, using arrays to store the frequencies.
 
