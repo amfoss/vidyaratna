@@ -26,6 +26,10 @@ This is a collection of resources that one might find helpful.
 
 * [The Linux Documentation Project](https://tldp.org/LDP/tlk/tlk-toc.html).
 
+* [The Linux Programming Interface](https://www.man7.org/tlpi/)
+
+* [Linux Insides](https://github.com/0xAX/linux-insides?tab=readme-ov-file)
+
 #### Collection of documentation
 
 * [DIT](http://www.dit.upm.es/~jmseyas/linux/kernel/hackers-docs.html): A collection of links to different pieces of documentation, guides and tutorials about the kernel.
