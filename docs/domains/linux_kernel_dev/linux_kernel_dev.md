@@ -6,71 +6,37 @@ This is a comprehensive resource guide for getting into Linux Kernel development
 
 ## Phase 1: Understand Operating Systems and the Linux Kernel
 
-Before diving into actual development, it's good to have a solid understanding of Operating Systems and the Linux Kernel, its structure, and the ecosystem around it.
+Before diving into actual development, it's good to have a solid understanding of Operating Systems and the Linux Kernel, its structure, and the ecosystem around it. However, do not waste too much time reading theory. Once you have a handle of the basics, jump into phase 2.
 
 ### Key Concepts to Learn
 
-- **Operating Systems**: Learn the basics, including processes, memory management, and filesystems.
-- **C Programming**: The Linux Kernel is written in C, so proficiency in C is essential.
-- **Linux Command Line**: Learn how to navigate, compile, and troubleshoot in the terminal. This can be developed easily by simply using a Linux Distro as your daily driver.
+- Operating Systems: Learn the basics, including processes, memory management, and filesystems.
+- C Programming: The Linux Kernel is written in C, so proficiency in C is essential.
+- Linux Command Line: Learn how to navigate, compile, and troubleshoot in the terminal. This can be developed easily by simply using a Linux Distro as your daily driver.
 
-### Resources
-#### Operating Systems
+### Recommended Reading
 
-1. Operating System Concepts by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
-2. Modern Operating Systems by Andrew S. Tanenbaum
-3. Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
-
-#### C
-
-1. The C Programming Language by Brian Kernighan and Dennis Ritchie
-2. [C Assignment](./c_assignment.md)
-
-#### Linux Kernel
-
-1. Linux Device Drivers, 3rd Edition by Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet
-
-2. Understanding the Linux Kernel by Daniel P. Bovet and Marco Cesati
-
-3. [Linux Kernel Newbies](https://kernelnewbies.org/)
-
-4. [The Linux Documentation Project](https://tldp.org/LDP/tlk/tlk-toc.html).
+1. Operating System Concepts by `Abraham Silberschatz, Peter B. Galvin, and Greg Gagne`: This is a fairly long book, a shorter introduction to core OS concepts might be preferable in order to save time.
+2. The C Programming Language by `Brian Kernighan and Dennis Ritchie` and/or [C Assignment](./c_assignment.md)
 
 ---
 
 ## Phase 2: Setup the Development Environment
 
-Having a proper development setup is essential. You’ll need to be comfortable with compiling, testing, and debugging kernels.
+Having a proper development setup is essential. You’ll need to be comfortable with compiling, testing, and debugging kernels. The [LFD103 course](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/))provides a well structured start to making and submitting patches. On the way you'll need to know the following essentials:
 
-### Steps to Follow:
-
-1. **Set Up a Kernel Development Environment**:
-   - Use QEMU or VirtualBox to run and test your custom-built kernels in a VM.
-   - Consider using [virtme-ng](https://github.com/arighi/virtme-ng) for faster build times.
-
-2. **Build and Boot a Custom Kernel**:
-   - Build the official kernel from source, which can be found on [kernel.org](https://www.kernel.org/).
-   - Boot the custom kernel in a VM or on a test system to understand the build and boot process.
-
-3. **Learn Git**: All Linux kernel development happens via Git. Learn git basics and how to create, format, and submit patches.
-
-### Resources:
-1. [Introduction to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
----
+* An editor, preferably something lightweight like `vim` or it's variants, or `emacs`.
+* A VM, try `QEMU with KVM` or `VirtualBox`.
+* Git 
 
 ## Phase 3: Start Contributing to the Linux Kernel
-
-At this stage, you should be ready to make your first small contributions to the Linux kernel.
 
 ### Find Your First Patch:
 
 1. **Explore Kernel Bug Trackers**:
    - Check [Bugzilla for the Linux Kernel](https://bugzilla.kernel.org/) for beginner-friendly bugs to fix.
 
-2. **Attend Linux Foundation Mentorship Programs**:
-   - The [Linux Foundation Live Mentorship Series](https://events.linuxfoundation.org/lf-live-mentorship-series/) offers an entryway to Linux kernel projects with experienced mentors.
-
-3. **Read Kernel Mailing Lists (LKML)**:
+2. **Read Kernel Mailing Lists (LKML)**:
   - Subscribing and reading discussions on LKML will help you learn from others and understand the kernel’s patch submission process.
 
 4. **Kernel Newbies’ List of Small Tasks**: Focus on [small tasks](https://kernelnewbies.org/FirstKernelPatch) to gain initial experience.
