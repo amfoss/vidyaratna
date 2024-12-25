@@ -150,6 +150,7 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 - [How to make a good presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation)
 - [Speaking Up Without Freaking Out | TEDx](https://youtu.be/XIXvKKEQQJo)
+- [The 110 techniques of communication and public speaking | TEDx](https://youtu.be/K0pxo-dS9Hc?si=HSbgi0dCk-GME_ma)
 
 #### Blogging
 
