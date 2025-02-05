@@ -20,10 +20,12 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
    - [Cyber Security](#cyber-security)
    - [Qt Framework](#qt-framework)
    - [Linux Kernel Dev](#linux-kernel-dev)
-4. [Soft Skills](#soft-skills)
+4. [Open Source](#open-source)
+   - [First PR](#starting-out)
+6. [Soft Skills](#soft-skills)
    - [Presentation Skills](#presentation-skills)
    - [Blogging](#blogging)
-5. [Hardware & Recommendations](#hardware--recommendations)
+4. [Hardware & Recommendations](#hardware--recommendations)
 
 ---
 
@@ -141,6 +143,13 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 #### Linux Kernel Dev
 
 - [Guide to Linux Kernal Development](/docs/domains/linux_kernel_dev/linux_kernel_dev.md)
+
+---
+
+### Open Source
+
+#### Starting out
+- If you're looking to make your first PR - [list of beginner friendly projects](https://github.com/MunGell/awesome-for-beginners)
 
 ---
 
