@@ -19,8 +19,8 @@ This curriculum is designed for beginners in software engineering and developmen
 |----------|-----------------------------------------|
 | 00       | [Codeforces](#task-00-codeforces)       |
 | 01       | [Git](#task-01-git)                     |
-| 02       | [Understanding the Foundations](#task-02-understanding-the-foundations) |
-| 03       | [Web Dev Basics](#task-03-web-dev-basics) |
+| 02       | [Web Dev Basics](#task-02-web-dev-basics) |
+| 03       | [Build a Simple Shell](#task-03-build-a-simple-shell) |
 | 04       | [Not a SRS Doc](#task-04-not-a-srs-doc) |
 | 05       | [Wireframe the Skeleton](#task-05-wireframe-the-skeleton) |
 | 06       | [Figma Design Task](#task-06-figma-design-task) |
@@ -93,60 +93,7 @@ Additionally, [learn git branching](https://learngitbranching.js.org/) provides 
 
 ---
 
-### TASK 02: Understanding the foundations
-
-In this task, you will establish a solid foundation in programming by learning C. Learning C is crucial because it serves as a foundation for many programming languages, helping you grasp fundamental concepts like memory management and data structures. Your objective is to develop a basic text editor that provides practical experience in applying these fundamental programming principles.
-
-**Topics to learn:**
-
-<ul>
-  <li><strong>Basic Syntax</strong>:
-      Rules, procedural programming, and structure of C programs.</li>
-  <li><strong>Variables</strong>: Types, mutability, and constants in C.</li>
-  <li><strong>Arrays</strong>: 1D, 2D arrays, and basic operations.</li>
-  <li><strong>Conditionals</strong>: if, else, and switch statements.</li>
-  <li><strong>Strings</strong>: Initialization, concatenation, slicing, and comparison using string functions.</li>
-  <li><strong>Loops</strong>: for, while, do-while, and break statements.</li>
-  <li><strong>Keywords</strong>: static, const, and extern.</li>
-  <li><strong>Functions</strong>: Declaration, recursion, pass-by-value, and pass-by-reference using pointers.</li>
-  <li><strong>Pointers</strong>: Basics, NULL pointers, pointer arithmetic, and dereferencing.</li>
-  <li><strong>Structures</strong>: Declaration and usage of structs.</li>
-  <li><strong>Memory Management</strong>: Dynamic memory allocation using malloc, calloc, realloc, and free.</li>
-  <li><strong>Data Structures</strong>: Implementing Stack, and Linked List using pointers and arrays.</li>
-  <li><strong>File Handling</strong>: Reading from and writing to files using fopen, fclose, fread, fwrite.</li>
-  <li><strong>Preprocessor Directives</strong>: Macros, #include, #define, and conditional compilation.</li>
-  <li><strong>Bitwise Operations</strong>: Using bitwise operators like &, |, ^, ~, <<, and >>.</li>
-  <li><strong>Error Handling</strong>: Using errno, perror, and handling function return values.</li>
-</ul>
-
-
-<br>
-
-**Objective:**
-
-Make a basic text editor with the following features:
-
-<ul>
-  <li>Creating a file</li>
-  <li>Read/view the contents of a file</li>
-  <li>Update the contents of the file</li>
-  <li>Save the file</li>
-  <li>Search text</li>
-  <li>Navigation using keyboard</li>
-  <li>Copy, Paste</li>
-  <li>Undo, redo</li>
-  <li>Syntax Highlighting (Can be just for .C files)</li>
-  <li>Status bar, Message bar, etc. If you want.</li>
-  <li>Upon completion, upload the text editor's code to your repository.</li>
-</ul>
-
-<br>
-
-**Duration: 16 Days**
-
----
-
-### TASK 03: Web Dev basics
+### TASK 02: Web Dev basics
 
 With [Div_It_Up Repository](https://github.com/JATAYU000/Div_It_Up)  develop a strong foundation in web development through projects, quizzes, discussions, and practical assignments and Git as well.
 
@@ -180,7 +127,36 @@ With [Div_It_Up Repository](https://github.com/JATAYU000/Div_It_Up)  develop a s
 **Deadline: 10 days**
 
 ---
+### TASK 03: Build a Simple Shell
 
+Develop a basic Unix shell using C to understand how command-line interfaces work. The goal is to gain hands-on experience with systems programming by developing a command-line interface (CLI) that interacts with the operating system. This project is designed to be an introduction to the inner workings of operating systems and the role of system calls in managing hardware resources and processes.
+
+**Objectives:**
+- Implement a command-line interface that reads user input and executes commands.
+    - Create a shell that displays a prompt, reads user input, and waits for commands. 
+- Parse user input into a command and arguments.
+    - Break the input into a command and its arguments. This involves tokenizing the input string based on spaces and other delimiters.
+- Execute Unix commands using fork() and execvp().
+    - Use system calls like fork() to create a new process and execvp() to replace the child process’s memory space with a new program. This is the core of command execution.     
+- Handle built-in commands like cd, exit, and pwd.
+- Implement basic error handling to manage invalid inputs.
+
+**Outcomes:**
+- Gain a fundamental understanding of how a shell works.
+- Learn how to execute external programs from a C program.
+- Learn about system calls and how they act as a bridge your application and the OS Kernel.
+- Develop an understanding of process management in Unix.
+- Get comfortable working with C and debugging.
+
+**Resources:**
+- [C Programming, A Modern Approach](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by)
+- [What Is A Shell? - OSDev](https://wiki.osdev.org/Introduction#What_is_a_shell?)
+- [Creating A Shell - OSDev](https://wiki.osdev.org/Creating_A_Shell)
+- [What is a System Call? - Wiki](https://en.wikipedia.org/wiki/System_call)
+
+**Deadline: 12 days**
+
+---
 ### Development cycle
 
 There is a journey behind every application or website we see, popularly known as the development cycle.
