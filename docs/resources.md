@@ -70,6 +70,9 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 
 #### Python
 
+**Dive Into Python - A fantastic free book for getting started with Python**
+- [Dive Into Python](https://diveintopython3.net/)
+
 **Automation with Python**
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
