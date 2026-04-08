@@ -8,24 +8,27 @@ Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curri
    - [Linux](#linux)
    - [CS50](#cs50)
    - [Git & Version Control](#git--version-control)
-2. [Programming Languages](#programming-languages)
+2. [Core Computer Science](#core-computer-science)
+   - [Operating Systems](#operating-systems)
+3. [Programming Languages](#programming-languages)
    - [Python](#python)
    - [Ruby](#ruby)
    - [Java](#java)
    - [Kotlin](#kotlin)
    - [Dart](#dart)
-3. [Software Development Domains](#software-development-domains)
+4. [Software Development Domains](#software-development-domains)
    - [Web Development](#web-development)
    - [Android Development](#android-development)
    - [Cyber Security](#cyber-security)
    - [Qt Framework](#qt-framework)
    - [Linux Kernel Dev](#linux-kernel-dev)
-4. [Open Source](#open-source)
+5. [Open Source](#open-source)
    - [First PR](#starting-out)
-6. [Soft Skills](#soft-skills)
+6. [AI Usage](#ai-usage)
+7. [Soft Skills](#soft-skills)
    - [Presentation Skills](#presentation-skills)
    - [Blogging](#blogging)
-4. [Hardware & Recommendations](#hardware--recommendations)
+8. [Hardware & Recommendations](#hardware--recommendations)
 
 ---
 
@@ -63,6 +66,13 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 - [Official Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
 - [Learning Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+
+---
+### Core Computer Science
+
+#### Operating Systems
+**OSTEP** - Operating Systems Three Easy Pieces in short is a well written book which explain core OS concepts. The book focuses on three main pillars; Virtualization, Concurrency and Persitance.
+- [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
 
 ---
 
@@ -155,7 +165,14 @@ For a more detailed look into Linux commands, check out [this book](https://liqu
 - If you're looking to make your first PR - [list of beginner friendly projects](https://github.com/MunGell/awesome-for-beginners)
 
 ---
+### AI Usage
 
+AI has become so widespread that it is involved in almost everything we do today, however understanding when to use and when not to is important.
+- [Blog](https://medium.com/@itsabhinavm/how-much-ai-is-too-much-the-cognitive-costs-of-overreliance-bbf16c5f1a7b)
+- [Research writeup](https://arxiv.org/abs/2506.08872)
+
+
+---
 ### Soft Skills
 
 #### Presentation Skills
